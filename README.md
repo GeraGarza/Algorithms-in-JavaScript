@@ -2,7 +2,7 @@
 Run live-server on index.html <br />
 dependencies: npm install mocha chai
 
-How to Run/Work:
+How to Run/Work: <br />
 Step 1: Work on test/code/example.js  <br />
 Step 2: go to test/tests/example_tests.js and replace xit --> it  <br />
 Step 3: Onserve result <br />
