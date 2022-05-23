@@ -3,9 +3,9 @@ Run live-server on index.html <br />
 dependencies: npm install mocha chai
 
 How to Run/Work: <br />
-Step 1: Work on test/code/example.js  <br />
-Step 2: go to test/tests/example_tests.js and replace xit --> it 
-Step 3: Onserve result <br />
+Step 1: Complete task on test/code/example.js  <br />
+Step 2: To check correctness, go to test/tests/example_tests.js and replace xit --> it  <br />
+Step 3: Observe result on browser <br />
 
 
 Order of Difficulty: <br /> &emsp;
