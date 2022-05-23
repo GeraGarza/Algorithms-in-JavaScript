@@ -1,10 +1,11 @@
 # Algorithms-in-JavaScript
 Run live-server on test/index.html <br />
-dependencies :npm install mocha chai
+dependencies: npm install mocha chai
 
-Step 1: Work on test/code/*  <br />
-Step 2: go to test/tests/* and replace xit --> it  <br />
-Step 3: Onserve  <br />
+How to Run/Work:
+Step 1: Work on test/code/example.js  <br />
+Step 2: go to test/tests/example_tests.js and replace xit --> it  <br />
+Step 3: Onserve result <br />
 
 
 Order of Difficulty: <br />
