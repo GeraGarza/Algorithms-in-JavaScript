@@ -1,5 +1,6 @@
 # Algorithms-in-JavaScript
-Run live-server on test/index.html
+Run live-server on test/index.html <br />
+dependencies :npm install mocha chai
 
 Step 1: Work on test/code/*  <br />
 Step 2: go to test/tests/* and replace xit --> it  <br />
