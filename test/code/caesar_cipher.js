@@ -7,7 +7,6 @@
 
 export const caesarCipher = (string, number) => {
   const alphabet = "abcdefghijklmnopqrstuvwxyz".split("");
-  const input = string.toLowerCase();
   let output = "";
 
   return output;

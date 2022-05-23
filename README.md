@@ -1,5 +1,5 @@
 # Algorithms-in-JavaScript
-Run live-server on test/index.html <br />
+Run live-server on index.html <br />
 dependencies: npm install mocha chai
 
 How to Run/Work:
