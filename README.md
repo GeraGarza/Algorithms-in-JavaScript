@@ -1,9 +1,9 @@
 # Algorithms-in-JavaScript
 Run live-server on test/index.html
 
-Step 1: Work on test/code/*
-Step 2: go to test/tests/* and replace xit --> it
-Step 3: Onserve
+Step 1: Work on test/code/*  <br />
+Step 2: go to test/tests/* and replace xit --> it  <br />
+Step 3: Onserve  <br />
 
 
 Order of Difficulty: <br />
