@@ -1,3 +1,8 @@
+/*
+Given an array of numbers, calculate the mean, median, and mode.
+
+*/
+
 export class Stats {
   constructor(array) {
     this.array = array;

@@ -1,3 +1,8 @@
+/*
+Implement a function that returns the fibonacci number at a given index.
+
+*/
+
 export const fibonacci = (element) =>{
     return 0
 }

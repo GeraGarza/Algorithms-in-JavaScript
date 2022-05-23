@@ -1,3 +1,7 @@
+/*
+Implement a factorial using recursion
+*/
+
 export const factorial = (number) => {
     return 0
 }

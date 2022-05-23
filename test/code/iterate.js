@@ -1,3 +1,10 @@
+/*
+Native array methods that iterate through all its items are: indexOf, 
+lastIndexOf, includes, fill, and join. Additionally, we can provide 
+a callback function to the following methods: findIndex, find, filter, 
+forEach, map, some, every, and reduce.
+*/
+
 export class Obj {
   constructor(obj) {
     this.obj = new Object(obj);

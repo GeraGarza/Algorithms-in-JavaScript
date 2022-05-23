@@ -1,3 +1,8 @@
+/*
+Single linked lists usually have the following functionalities:
+
+*/
+
 export class Node {
   constructor(data, next = null) {
     this.data = data;

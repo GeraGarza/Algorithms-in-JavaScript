@@ -1,3 +1,8 @@
+/*
+Implement a Queue class using two stacks.
+
+*/
+
 class Stack {
   constructor() {
     this.data = [];

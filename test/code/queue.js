@@ -1,3 +1,9 @@
+/*
+Given two queues as inputs, create a new queue 
+by “weaving” them together.
+
+*/
+
 export class Queue {
   constructor() {
     this.data = [];

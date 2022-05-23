@@ -1,3 +1,8 @@
+/*
+Given a phrase, reverse the order of the characters of each word.
+
+*/
+
 export const reverseWords = (string) => {
   const wordsReversed = [];
 

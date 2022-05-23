@@ -1,3 +1,7 @@
+/*
+Given a phrase, capitalize every word.
+*/
+
 export const capitalize = (phrase) => {
   const words = [];
 

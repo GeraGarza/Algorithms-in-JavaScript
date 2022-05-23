@@ -1,3 +1,10 @@
+/*
+For a given number of levels, print out a 
+“pyramid” using hashes and spaces.
+
+*/
+
+
 export const pyramid = (number) => {
   let levels = "";
 
