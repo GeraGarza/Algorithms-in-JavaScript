@@ -8,29 +8,29 @@ Step 2: go to test/tests/example_tests.js and replace xit --> it  <br />
 Step 3: Onserve result <br />
 
 
-Order of Difficulty: <br />
-    sort_test <br />
-    iterate_tests <br />
-    recursion_tests <br />
-    string_reversal_tests <br />
-    palindrome_tests <br />
-    int_reversal_test <br />
-    fizz_buss_tests <br />
-    max_char_tests <br />
-    anagram_tests <br />
-    vowels_tests <br />
-    array_chunking_tests <br />
-    reverse_array_tests <br />
-    reverse_words_tests <br />
-    capitalization_tests <br />
-    caesar_cipher_tests <br />
-    mean_med_mode_tests <br />
-    two_sum_tests <br />
-    max_profit_tests <br />
-    fibonacci_tests <br />
-    pyramid_tests <br />
-    queue_tests <br />
-    linked_list_tests <br />
+Order of Difficulty: <br /> &emsp;
+    sort_test <br />&emsp;
+    iterate_tests <br />&emsp;
+    recursion_tests <br />&emsp;
+    string_reversal_tests <br />&emsp;
+    palindrome_tests <br />&emsp;
+    int_reversal_test <br />&emsp;
+    fizz_buss_tests <br />&emsp;
+    max_char_tests <br />&emsp;
+    anagram_tests <br />&emsp;
+    vowels_tests <br />&emsp;
+    array_chunking_tests <br />&emsp;
+    reverse_array_tests <br />&emsp;
+    reverse_words_tests <br />&emsp;
+    capitalization_tests <br />&emsp;
+    caesar_cipher_tests <br />&emsp;
+    mean_med_mode_tests <br />&emsp;
+    two_sum_tests <br />&emsp;
+    max_profit_tests <br />&emsp;
+    fibonacci_tests <br />&emsp;
+    pyramid_tests <br />&emsp;
+    queue_tests <br />&emsp;
+    linked_list_tests <br />&emsp;
 
 
 Credit: https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038 
