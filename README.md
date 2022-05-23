@@ -4,7 +4,7 @@ dependencies: npm install mocha chai
 
 How to Run/Work: <br />
 Step 1: Work on test/code/example.js  <br />
-Step 2: go to test/tests/example_tests.js and replace xit --> it  <br />
+Step 2: go to test/tests/example_tests.js and replace xit --> it 
 Step 3: Onserve result <br />
 
 
@@ -33,8 +33,7 @@ Order of Difficulty: <br /> &emsp;
     linked_list_tests <br />&emsp;
 
 
-Credit: https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038 
-By: Thon Ly
-
-
 ![GitHub Logo](/images/ss.png)
+
+Credit: https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038   <br />
+By: Thon Ly
